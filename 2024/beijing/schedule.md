@@ -23,7 +23,7 @@ schedule: true
 ### Day 2: Social media and text analysis 
 - 9:00 - 12:00 Lecture 3 and Lab 3: web crawler and natural language processing - Lei Cao (Beijing Normal University) 
 - 14:00 - 15:20 Group work 
-- 15:20 - 17:00 Group presentations (Beijing Normal University & Tsinghua Univetsity) 
+- 15:20 - 17:00 Group presentations (Beijing Normal University & Tsinghua University) 
 
 ### Day 3: Network analysis 
 - 9:00 - 12:00 Lecture 4 and Lab 4: Network analysis and visualization - An Zeng (Beijing Normal University) 
