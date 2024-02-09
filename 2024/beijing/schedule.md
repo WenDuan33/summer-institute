@@ -31,8 +31,8 @@ schedule: true
 - 15:20 - 17:00 Group presentations (Microsoft & Beijing Normal University) 
 
 ### Day 4: Psychometrics 
-- 9:00 - 12:00 Lecture 5 and Lab 5: Item Response Theory (IRT) - Kondwani Kajera Mughogho (University of Cambrige) 
-- 14:00 - 17:00 Lecture 6 and Lab 6: Factor analysis - Luning Sun (University of Cambrige) 
+- 9:00 - 12:00 Lecture 5 and Lab 5: Item Response Theory (IRT) - Kondwani Kajera Mughogho (University of Cambridge) 
+- 14:00 - 17:00 Lecture 6 and Lab 6: Factor analysis - Luning Sun (University of Cambridge) 
 
 ### Day 5: Visit and Talks 
 - 9:00 - 12:00 Visit Microsoft Research Asia 
@@ -48,13 +48,13 @@ schedule: true
 ### Day 8: Day off 
 
 ### Day 9: Talks and Group work 
-- 9:00 - 10:30 Guest speaker – David Stillwell (University of Cambrige) 
+- 9:00 - 10:30 Guest speaker – David Stillwell (University of Cambridge) 
 - 10:30 - 12:00 Group work 
 - 14:00 - 15:30 Guest speaker – TBD 
 - 15:30 - 17:00 Group work 
 
 ### Day 10: Talks and Group work 
-- 9:00 - 10:30 Guest speaker – Jose Hernandez-Orallo (University of Cambrige) 
+- 9:00 - 10:30 Guest speaker – Jose Hernandez-Orallo (University of Cambridge) 
 - 10:30 - 12:00 Group work 
 - 14:00 - 17:00 Group work 
 
